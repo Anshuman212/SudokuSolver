@@ -1,4 +1,4 @@
-# Intro
+# Sudoku Introduction
 These are a suite of C++ programs which deal with Sudoku Puzzles. As the names suggest, these programs don't just solve Sudoku puzzles, they also achieve other objectives such as Sudoku Puzzle Validation  (Under development) and Sudoku Puzzle Generation.
 
 ## Contents
