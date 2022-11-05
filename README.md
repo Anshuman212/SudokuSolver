@@ -70,7 +70,7 @@ This particular algorithm employs the use of backtracking, one of the most gener
 This is a program which validates solutions for 9x9 Sudoku puzzles. **Written completely in C++** and **built from scratch**, this program takes input from the user or from a file containing the values. It then validates the puzzle and then displays whether it is a valid solution or not.
 
 ### Getting Started
-* Simply download the ```sudoku-validator.cpp``` file found in the ```Sudoku-Validator``` directory. Run it using any standard C++ compiler. In case of any errors or compatibility issues, submit an issue in this git.
+* Simply download the ```sudokuValidator.cpp``` file found in the ```Sudoku-Validator``` directory. Run it using any standard C++ compiler. In case of any errors or compatibility issues, submit an issue in this git.
 * Once downloaded, compiled and run; the program will require the user to input the Sudoku puzzle into it. There are two ways to do this.
     * The user can either input the values manually one-by-one when the program is running.
     * The user can write all the values into a file, seperated by whitespaces. The file can have any name or extension. When the program is running, the user will be prompted to simply enter the name of the file (with extension). **Below** is an example of how the contents of such a file might look. Look at the ```sample.txt``` files in the same directory for more examples.
